@@ -6,7 +6,7 @@ the flow of the pipeline diagram
 1- We use a workstation to develop and maintain our project commit changes to local git and then push the changes to the remote (github repo) 
 
 2- the github trigger the changes to circleci
-
+ 
 3- Circleci will follow the configuration in the .circleci/config.yml as follow:  
 
     - Circleci will prepare the docker environment and install environment dependancy.
