@@ -1,7 +1,7 @@
-# the overview of the pipeline repo --> Github ---> circleCI --> AWS
+# The overview of the pipeline repo --> Github ---> circleCI --> AWS
 
 the flow of the pipeline diagram 
-![Udagram Pipeline Architecture](udagram-pipeline-arch.png)<br>
+![the overview of the pipeline](2.png)<br>
 
 1- We use a workstation to develop and maintain our project commit changes to local git and then push the changes to the remote (github repo) 
 
