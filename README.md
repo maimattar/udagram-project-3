@@ -18,7 +18,7 @@ The link to access the application deployed to s3 bucket click : [link](http://e
 
 ## Documentation files
 app dependencies file [here](documentation/app-dependencies.md)<br>
-the infrastructure of the application file [here](documentation/the-infrastructure-of-the-application.md)br>
+the infrastructure of the application file [here](documentation/the-infrastructure-of-the-application.md)<br>
 the overview of the pipeline file [here](documentation/the-overview-of-the-pipeline.md)<br>
 the infrastructure of the application diagram  [here](documentation/1.png)<br>
 the overview of the pipeline diagram  [here](documentation/2.png)<br>
