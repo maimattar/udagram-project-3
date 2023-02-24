@@ -14,6 +14,7 @@ The Last Project From Advanced Full-Stack Web Development Udacity Track <br/>
 
 ## How to run application
 To test the application click : [here](http://udagram-api-dev.eba-8ykrjwpj.us-east-1.elasticbeanstalk.com/)<br>
+The link to access the application deployed to s3 bucket click : [link](http://elasticbeanstalk-us-east-1-702760358169.s3-website-us-east-1.amazonaws.com/home)<br>
 
 ## required screenshots
 * [IAM-user](IAM-user.png)
