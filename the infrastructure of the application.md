@@ -8,11 +8,11 @@ The following diagram demonstrate the project infrastructure:
 
 - we uses three AWS cloud sevices to host our fronend and API application as follow:
 
- #AWS S3 Bucket: web hosting enabled bucket that contains the frontend application wchich is angular app
+ -- AWS S3 Bucket: web hosting enabled bucket that contains the frontend application wchich is angular app
 
- #AWS Elastic Beanstalk: for hosting our backend application "udagram-api" inside an environment the config.yml file in the .elasticbeanstalk has the environment initialization details
+ -- AWS Elastic Beanstalk: for hosting our backend application "udagram-api" inside an environment the config.yml file in the .elasticbeanstalk has the environment initialization details
 
- #AWS RDS: we create a postgres database to host the backend API data (users, feeditems).
+ -- AWS RDS: we create a postgres database to host the backend API data (users, feeditems).
 
 - the brwoser send the input to the cloud to process the request and it will render the response comes from the cloud
 
