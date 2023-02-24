@@ -25,4 +25,4 @@ To test the application click : [here](http://udagram-api-dev.eba-8ykrjwpj.us-ea
 * [elasticbeanstalk-environment-udagram-api-dev](elasticbeanstalk-environment-udagram-api-dev.png)
 * [elasticbeanstalk-udagram-api-dev-health](elasticbeanstalk-udagram-api-dev-health.png)
 * [s3-bucket](s3-bucket.png.png)
-* [My Repo](/Screenshots/udagram-main-repo.png)
+* [github-repo](github-repo.png)
