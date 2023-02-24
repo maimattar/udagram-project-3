@@ -10,6 +10,7 @@ jobs:
     docker:
       # the base image can run most needed actions with orbs
       - image: "cimg/node:14.15"
+    working_directory: /tmp
     steps:
       # install node and checkout code
       - node/install:
