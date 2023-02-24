@@ -17,9 +17,9 @@ To test the application click : [here](http://udagram-api-dev.eba-8ykrjwpj.us-ea
 The link to access the application deployed to s3 bucket click : [link](http://elasticbeanstalk-us-east-1-702760358169.s3-website-us-east-1.amazonaws.com/home)<br>
 
 ## Documentation files
-app dependencies file [here](documentation/app dependencies.md)<br>
-the infrastructure of the application file [here](documentation/the infrastructure of the application.md)br>
-the overview of the pipeline file [here](documentation/the overview of the pipeline.md)<br>
+app dependencies file [here](documentation/app-dependencies.md)<br>
+the infrastructure of the application file [here](documentation/the-infrastructure-of-the-application.md)br>
+the overview of the pipeline file [here](documentation/the-overview-of-the-pipeline.md)<br>
 the infrastructure of the application diagram  [here](documentation/1.png)<br>
 the overview of the pipeline diagram  [here](documentation/2.png)<br>
 
